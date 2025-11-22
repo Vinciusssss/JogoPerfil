@@ -64,19 +64,34 @@ body{
     gap: 10px;
 }
 
-.jogarNovamente, .voltar{
+.jogarNovamente, .menu{
     font-family: 'Comic Neue', cursive;
     color: white;
     width: 300px;
-    border-radius: 15px;
+    border-radius: 10px;
     font-size: 1.0rem;
     border: 2.5px solid #ffecd1;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out; 
+    box-shadow: 0 4px 0 rgba(0,0,0,0.2); 
 }
 
 .jogarNovamente{
     background-color: #ff7d00;
 }
 
-.voltar{
+.menu{
     background-color: #15616d;
+}
+
+.jogarNovamente:hover, .menu:hover {
+    transform: scale(1.1); 
+    box-shadow: 0 8px 0 rgba(0,0,0,0.3); 
+    filter: brightness(1.2); 
+}
+
+.jogarNovamente:active, .menu:active {
+    transform: scale(0.95);
+    box-shadow: 0 2px 0 rgba(0,0,0,0.2);
 }
