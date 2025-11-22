@@ -51,6 +51,9 @@ button, .score{
     border: none;
     border-radius: 10px;
     gap: 10px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 4px 0 rgba(0,0,0,0.2);
 }
 .play{
     background-color: #ff7d00;
@@ -71,6 +74,15 @@ button, .score{
     border: #ff7d00 2.5px solid;
     margin-top: 20px;
     gap: 0px;
+}
+button:active{
+    transform: scale(0.95);
+    box-shadow: 0 2px 0 rgba(0,0,0,0.2);
+}
+button:hover{
+    transform: scale(1.1); 
+    box-shadow: 0 8px 0 rgba(0,0,0,0.3); 
+    filter: brightness(1.2); 
 }
 .pontos{
     color: #ff7d00;
