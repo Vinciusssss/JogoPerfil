@@ -10,7 +10,7 @@ body{
     height: 600px;
     color:  #001524;
     background-color: #ffecd1;
-    border-color: #ff7d00;
+    border: #ff7d00 2,5px solid;
     border-radius: 50px;
     font-size: 18px;
 }
@@ -25,4 +25,13 @@ button{
     border: #15616d solid 2.5px;
     border-radius: 10px;
     background-color: #ff7d00;
+}
+button:active{
+    transform: scale(0.95);
+    box-shadow: 0 2px 0 rgba(0,0,0,0.2);
+}
+button:hover{
+    transform: scale(1.1); 
+    box-shadow: 0 8px 0 rgba(0,0,0,0.3); 
+    filter: brightness(1.2); 
 }
