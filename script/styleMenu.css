@@ -88,6 +88,9 @@ button:hover{
     color: #ff7d00;
 }
 p{
+     display: flex;
+    justify-content: center;
     color: #ffecd1;
     padding: 0%;
+    font-size: 15px;
 }
