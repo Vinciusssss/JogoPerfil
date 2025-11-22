@@ -55,3 +55,28 @@ body{
     font-size: 4.0rem;
     margin: 0;
 }
+
+.botoes-de-retorno{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.jogarNovamente, .voltar{
+    font-family: 'Comic Neue', cursive;
+    color: white;
+    width: 300px;
+    border-radius: 15px;
+    font-size: 1.0rem;
+    border: 2.5px solid #ffecd1;
+}
+
+.jogarNovamente{
+    background-color: #ff7d00;
+}
+
+.voltar{
+    background-color: #15616d;
+}
