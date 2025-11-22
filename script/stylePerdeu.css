@@ -32,7 +32,7 @@ body{
     display: flex;
     justify-content: center;
     color: #ff7d00;
-    font-size: 1.8rem;
+    font-size: 30px;
 }
 
 .box-pontuacao{
@@ -94,4 +94,12 @@ body{
 .jogarNovamente:active, .menu:active {
     transform: scale(0.95);
     box-shadow: 0 2px 0 rgba(0,0,0,0.2);
+}
+
+.criadoresDoJogo{
+    display: flex;
+    justify-content: center;
+    color: #ffecd1;
+    padding: 0%;
+    font-size: 15px;
 }
