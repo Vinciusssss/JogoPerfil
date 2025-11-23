@@ -39,13 +39,13 @@ body{
     font-size: 1.3rem;
 }
 
-.voltar:hover ,.btn-dica:hover{
+.voltar:hover ,.btn-dica:hover , .enviar:hover, .btn-pular:hover{
     transform: scale(1.1); 
     box-shadow: 0 8px 0 rgba(0,0,0,0.3); 
     filter: brightness(1.2); 
 }
 
-.voltar:active , .btn-dica:active{
+.voltar:active , .btn-dica:active, .enviar:active, .btn-pular:active{
     transform: scale(0.95);
     box-shadow: 0 2px 0 rgba(0,0,0,0.2);
 }
@@ -91,7 +91,7 @@ body{
 
 .container-card-dicas {
     background-color: #ffecd1;
-    border: 5px solid #ff7d00;
+    border: 3px solid #ff7d00;
     border-radius: 20px;
     padding: 15px 20px;
     width: 100%;
@@ -168,3 +168,53 @@ body{
     background-color: #a6c8be;
 }
 
+.container-resposta{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 20px;
+    gap: 10px;
+    height: 40px;
+}
+
+.campo-resposta{
+}
+
+.campo-de-resposta{
+    background-color: #ffecd1;
+    border-radius: 10px;
+    height: 100%;
+    width: 500px;
+    font-family: 'Comic Neue', cursive;
+    border: 2.5px solid #ff7d00;
+    display: flex;
+    align-items: center;
+}
+
+.enviar{
+    height: 100%;
+    width: 80px;
+    border-radius: 10px;
+    background-color: #ff7d00;
+    color: #ffecd1;
+    font-family: 'Comic Neue', cursive;
+    border: 2.5px solid #15616d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pular{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.btn-pular{
+    background-color: #15616d;
+    font-family: 'Comic Neue', cursive;
+    color: #ffecd1;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    border: 2.5px solid #ffecd1
+}
