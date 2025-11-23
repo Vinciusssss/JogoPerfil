@@ -23,7 +23,7 @@ body{
 
 .voltar{
     background-color: #15616d;
-    color: white;
+    color: #ffecd1;
     font-family: 'Comic Neue', cursive;
     display: flex;
     align-items: center;
@@ -51,6 +51,7 @@ body{
 }
 
 .pontuacaoAtual{
+    color: #ffecd1;
     background-color: #ff7d00;
     width: 170px;
     display: flex;
@@ -63,7 +64,6 @@ body{
 .info{
     display: flex;
     justify-content: center;
-    
 }
 
 .container-interface{
@@ -154,6 +154,12 @@ body{
     justify-content: center;
 }
 
+.btn-dica.usado {
+    background-color: #c5dfd3;
+    cursor: default;
+    filter: brightness(0,1);
+}
+
 .botoes-dicas > * {
     order: 2;
 }
@@ -170,8 +176,10 @@ body{
 
 .container-resposta{
     display: flex;
+    position: relative;
     flex-direction: row;
     justify-content: center;
+    left: 20px;
     padding-top: 20px;
     gap: 10px;
     height: 40px;
@@ -192,7 +200,7 @@ body{
 }
 
 .enviar{
-    height: 100%;
+    height: 45px;
     width: 80px;
     border-radius: 10px;
     background-color: #ff7d00;
@@ -209,6 +217,7 @@ body{
     justify-content: center;
     padding-top: 20px;
 }
+
 .btn-pular{
     background-color: #15616d;
     font-family: 'Comic Neue', cursive;
@@ -217,4 +226,20 @@ body{
     height: 40px;
     width: 150px;
     border: 2.5px solid #ffecd1
+}
+
+#dicas-reveladas {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+#dicas-reveladas .texto-dica {
+    display: block;
+    background-color: #15616d;
+    padding: 12px 18px;
+    border-radius: 12px;
+    color: white;
+    font-size: 15px;
 }
