@@ -1,0 +1,14 @@
+.imagem-interrogacao {
+    display: flex;
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+
+/* A imagem DEVE preencher 100% do seu container */
+.interrogacao {
+    width: 100%;
+    /* Isso fará a imagem ter 200px de largura */
+    height: 100%;
+    /* Isso fará a imagem ter 200px de altura */
+}
