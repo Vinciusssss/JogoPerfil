@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap');
 
-body{
+body {
     margin: 0;
     padding: 0;
     width: 100%;
@@ -9,11 +9,11 @@ body{
     color: white;
 }
 
-.telaPerdeu{
+.telaPerdeu {
     width: 100vw;
     height: 100vh;
     background-image: url("imagens/plano-de-fundo.jpg");
-    background-size: cover ;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     display: flex;
@@ -22,41 +22,41 @@ body{
     position: relative;
 }
 
-.div-pai{
+.div-pai {
     display: flex;
     flex-direction: column;
-    gap: 20px;
 }
 
-.titulo-perdeu{
+.titulo-perdeu {
     display: flex;
     justify-content: center;
     color: #ff7d00;
     font-size: 30px;
 }
 
-.box-pontuacao{
+.box-pontuacao {
     color: black;
     font-size: 2.3rem;
     background-color: #ffecd1;
     width: 300px;
     height: 300px;
     border-radius: 25px;
-    border: 5px solid #ff7d00 ;
+    border: 5px solid #ff7d00;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 5px;
+    margin-bottom: 20px;
 }
 
-.pontuacao-final{
+.pontuacao-final {
     color: #ff7d00;
     font-size: 4.0rem;
     margin: 0;
 }
 
-.botoes-de-retorno{
+.botoes-de-retorno {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -64,7 +64,8 @@ body{
     gap: 10px;
 }
 
-.jogarNovamente, .menu{
+.jogarNovamente,
+.menu {
     font-family: 'Comic Neue', cursive;
     color: white;
     width: 300px;
@@ -73,30 +74,32 @@ body{
     border: 2.5px solid #ffecd1;
     text-align: center;
     cursor: pointer;
-    transition: all 0.2s ease-in-out; 
-    box-shadow: 0 4px 0 rgba(0,0,0,0.2); 
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 4px 0 rgba(0, 0, 0, 0.2);
 }
 
-.jogarNovamente{
+.jogarNovamente {
     background-color: #ff7d00;
 }
 
-.menu{
+.menu {
     background-color: #15616d;
 }
 
-.jogarNovamente:hover, .menu:hover {
-    transform: scale(1.1); 
-    box-shadow: 0 8px 0 rgba(0,0,0,0.3); 
-    filter: brightness(1.2); 
+.jogarNovamente:hover,
+.menu:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 0 rgba(0, 0, 0, 0.3);
+    filter: brightness(1.2);
 }
 
-.jogarNovamente:active, .menu:active {
+.jogarNovamente:active,
+.menu:active {
     transform: scale(0.95);
-    box-shadow: 0 2px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.2);
 }
 
-.criadoresDoJogo{
+.criadoresDoJogo {
     display: flex;
     justify-content: center;
     color: #ffecd1;
