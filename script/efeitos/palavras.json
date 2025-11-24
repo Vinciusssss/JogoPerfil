@@ -1,0 +1,1538 @@
+[
+  {
+    "id": 1,
+    "palavra": "Guarda-chuva",
+    "tipo": "Objeto",
+    "dicas": [
+      "Foi inventado na China antiga, inicialmente feito de seda e papel.",
+      "Sua estrutura básica pouco mudou nos últimos séculos.",
+      "É considerado um símbolo de status em algumas culturas antigas.",
+      "Muitas pessoas esquecem este objeto em transportes públicos.",
+      "Pode ser automático ou manual.",
+      "Geralmente possui uma estrutura de metal ou fibra de vidro.",
+      "Possui uma versão maior utilizada em praias.",
+      "É feito de material impermeável.",
+      "Usado para se proteger.",
+      "Serve para evitar que você se molhe na chuva."
+    ]
+  },
+  {
+    "id": 2,
+    "palavra": "Micro-ondas",
+    "tipo": "Objeto",
+    "dicas": [
+      "Sua tecnologia foi descoberta acidentalmente por um engenheiro testando radares.",
+      "Utiliza radiação não ionizante para funcionar.",
+      "Possui um prato giratório em seu interior.",
+      "Não é recomendado colocar metal dentro dele.",
+      "Revolucionou a cozinha moderna nos anos 70 e 80.",
+      "Possui botões para descongelar alimentos.",
+      "Faz as moléculas de água vibrarem para gerar calor.",
+      "É muito comum em copas de escritórios.",
+      "Faz pipoca muito rápido.",
+      "Eletrodoméstico usado para aquecer comida."
+    ]
+  },
+  {
+    "id": 3,
+    "palavra": "Espelho",
+    "tipo": "Objeto",
+    "dicas": [
+      "Na antiguidade, era feito de pedra polida ou metal.",
+      "Acredita-se que quebrá-lo traga 7 anos de azar.",
+      "É essencial em telescópios e periscópios.",
+      "Vampiros supostamente não aparecem nele.",
+      "A rainha má da Branca de Neve conversava com um.",
+      "Reflete a luz de forma especular.",
+      "Usado por dentistas para ver dentes superiores.",
+      "Geralmente fica acima da pia do banheiro.",
+      "Você olha para ele quando se penteia.",
+      "Reflete a sua imagem."
+    ]
+  },
+  {
+    "id": 4,
+    "palavra": "Violão",
+    "tipo": "Objeto",
+    "dicas": [
+      "Descendente do alaúde e da vihuela.",
+      "Possui um corpo oco que serve como caixa de ressonância.",
+      "Pode ser acústico ou eletroacústico.",
+      "É muito comum em rodas de amigos e luais.",
+      "Possui trastes ao longo de seu braço.",
+      "Geralmente feito de madeira.",
+      "Precisa ser afinado com frequência.",
+      "Tocado com os dedos ou com palheta.",
+      "Possui 6 cordas (normalmente).",
+      "Instrumento musical popular no sertanejo."
+    ]
+  },
+  {
+    "id": 5,
+    "palavra": "Chave",
+    "tipo": "Objeto",
+    "dicas": [
+      "Simboliza abertura e conhecimento em várias culturas.",
+      "Pode ser mestra.",
+      "Existem versões digitais e biométricas hoje em dia.",
+      "Geralmente feita de latão ou aço.",
+      "Pode ter o formato 'Allen' ou 'Fenda'.",
+      "Costuma ficar presa em um chaveiro.",
+      "Se você perder, pode precisar chamar um profissional especializado.",
+      "Possui dentes e segredos.",
+      "Usada para dar a partida no carro.",
+      "Usada para abrir portas e cadeados."
+    ]
+  },
+  {
+    "id": 6,
+    "palavra": "Tênis",
+    "tipo": "Objeto",
+    "dicas": [
+      "Sua sola foi inventada quando alguém colocou borracha no forno (vulcanização).",
+      "Existem culturas onde é obrigatório tirá-lo antes de entrar em casa.",
+      "Pode ser de cano alto ou baixo.",
+      "Grandes marcas pagam milhões para atletas usarem.",
+      "Possui língua, mas não fala.",
+      "Geralmente possui cadarços ou velcro.",
+      "Protege os pés do impacto.",
+      "Essencial para a prática de esportes.",
+      "Usado em corridas.",
+      "Calçado muito confortável para o dia a dia."
+    ]
+  },
+  {
+    "id": 7,
+    "palavra": "Lâmpada",
+    "tipo": "Objeto",
+    "dicas": [
+      "Thomas Edison é frequentemente creditado por sua comercialização.",
+      "É o símbolo universal de 'uma ideia'.",
+      "As versões antigas tinham filamento de tungstênio.",
+      "As versões modernas são de LED e economizam energia.",
+      "Pode queimar se houver um pico de energia.",
+      "É rosqueada em um bocal.",
+      "Substituiu as velas e lampiões.",
+      "Ilumina ambientes escuros.",
+      "Você acende ao entrar no quarto à noite.",
+      "Objeto feito de vidro que emite luz."
+    ]
+  },
+  {
+    "id": 8,
+    "palavra": "Mochila",
+    "tipo": "Objeto",
+    "dicas": [
+      "Surgiu para uso militar antes de ser escolar.",
+      "Pode ter armação interna para trilhas pesadas.",
+      "Distribui o peso entre os ombros.",
+      "Possui alças ajustáveis.",
+      "Item essencial para campistas.",
+      "Muitas têm compartimento específico para notebook.",
+      "Usada para carregar livros e cadernos.",
+      "Os alunos levam para a escola.",
+      "É colocada nas costas.",
+      "Saco de tecido resistente com alças para transporte."
+    ]
+  },
+  {
+    "id": 9,
+    "palavra": "Garfo",
+    "tipo": "Objeto",
+    "dicas": [
+      "Era considerado um instrumento do diabo na Idade Média.",
+      "Surgiu muito depois da colher e da faca.",
+      "Geralmente tem 4 dentes, mas pode ter 3.",
+      "Pode ser de plástico, metal ou prata.",
+      "Usado para segurar o alimento enquanto se corta.",
+      "Faz par com a faca.",
+      "Usado para enrolar o macarrão.",
+      "Você leva à boca.",
+      "Utensílio de cozinha.",
+      "Usado para espetar a comida."
+    ]
+  },
+  {
+    "id": 10,
+    "palavra": "Avião",
+    "tipo": "Objeto",
+    "dicas": [
+      "Santos Dumont e os Irmãos Wright disputam sua paternidade.",
+      "Funciona baseado no princípio de Bernoulli.",
+      "Possui uma 'caixa preta' que na verdade é laranja.",
+      "Precisa de uma pista longa para operar.",
+      "Possui asas e turbinas.",
+      "O piloto controla este objeto.",
+      "Meio de transporte muito rápido.",
+      "Voa pelo céu.",
+      "Leva passageiros de um país para outro.",
+      "Veículo aéreo."
+    ]
+  }
+]
+[
+  {
+    "id": 11,
+    "palavra": "Relógio",
+    "tipo": "Objeto",
+    "dicas": [
+      "Os primeiros modelos utilizavam a sombra do sol.",
+      "Christian Huygens inventou o primeiro modelo de pêndulo.",
+      "Pode ser analógico ou digital.",
+      "Alguns modelos famosos são o Big Ben e o Cuco.",
+      "Geralmente é usado no pulso esquerdo.",
+      "Possui ponteiros ou números luminosos.",
+      "Faz o som 'tique-taque'.",
+      "Serve para não se atrasar.",
+      "Marca a passagem do tempo.",
+      "Mostra as horas."
+    ]
+  },
+  {
+    "id": 12,
+    "palavra": "Cadeira",
+    "tipo": "Objeto",
+    "dicas": [
+      "Historicamente, era um símbolo de autoridade (como o trono).",
+      "Van Gogh pintou uma muito famosa.",
+      "Existe uma versão elétrica usada para execuções.",
+      "Pode ser de balanço ou giratória.",
+      "Possui pernas, mas não anda.",
+      "Tem encosto para as costas.",
+      "Item fundamental em uma sala de jantar.",
+      "Geralmente feita de madeira ou plástico.",
+      "Móvel usado para descanso.",
+      "Serve para se sentar."
+    ]
+  },
+  {
+    "id": 13,
+    "palavra": "Óculos",
+    "tipo": "Objeto",
+    "dicas": [
+      "Nero usava uma esmeralda polida com a mesma função deste objeto.",
+      "Benjamin Franklin inventou a versão bifocal.",
+      "Harry Potter é conhecido por usar um redondo.",
+      "Possui hastes e plaquetas.",
+      "Pode ser escuro para proteção solar.",
+      "Muitas pessoas operam a vista para deixar de usar.",
+      "Sujeira ou embaçamento atrapalham sua função.",
+      "Corrige miopia e astigmatismo.",
+      "Fica apoiado no nariz e nas orelhas.",
+      "Usado para enxergar melhor."
+    ]
+  },
+  {
+    "id": 14,
+    "palavra": "Smartphone",
+    "tipo": "Objeto",
+    "dicas": [
+      "Substituiu câmeras, MP3 players e mapas.",
+      "A primeira versão popular foi lançada pela Apple em 2007.",
+      "Funciona com sistema operacional Android ou iOS.",
+      "Precisa ser recarregado quase todo dia.",
+      "Tem tela sensível ao toque (touchscreen).",
+      "Acesso à internet é sua principal função hoje.",
+      "Você baixa aplicativos nele.",
+      "Vicia muitas pessoas.",
+      "Versão moderna do telefone celular.",
+      "Usado para mandar mensagens e ver redes sociais."
+    ]
+  },
+  {
+    "id": 15,
+    "palavra": "Caneta",
+    "tipo": "Objeto",
+    "dicas": [
+      "Sua versão antiga usava penas de aves.",
+      "A versão esferográfica revolucionou a escrita.",
+      "A marca BIC é sinônimo deste objeto.",
+      "Pode estourar e manchar o bolso da camisa.",
+      "Possui tinta em seu interior.",
+      "Pode ter tampa ou ser retrátil.",
+      "A cor azul é a mais comum.",
+      "Usada para assinar documentos.",
+      "Instrumento de escrita.",
+      "Usada para escrever em papel."
+    ]
+  },
+  {
+    "id": 16,
+    "palavra": "Bicicleta",
+    "tipo": "Objeto",
+    "dicas": [
+      "No século 19, existia um modelo com uma roda gigante na frente.",
+      "Na China, é um dos principais meios de transporte.",
+      "Não polui o meio ambiente.",
+      "Possui corrente e coroa.",
+      "Exige equilíbrio para ser usada.",
+      "Tem dois pneus e um guidão.",
+      "Pode ter marchas.",
+      "Você pedala para se mover.",
+      "Veículo de duas rodas.",
+      "Usada no ciclismo."
+    ]
+  },
+  {
+    "id": 17,
+    "palavra": "Livro",
+    "tipo": "Objeto",
+    "dicas": [
+      "A Bíblia de Gutenberg foi o primeiro grande exemplar impresso.",
+      "Pode ser de ficção ou não-ficção.",
+      "Sua versão digital é chamada de E-book.",
+      "Possui lombada e capa.",
+      "Tem índice e sumário.",
+      "Cheiro de novo (ou de velho) agrada muita gente.",
+      "Encontrado em bibliotecas.",
+      "Composto por muitas páginas.",
+      "Fonte de conhecimento e histórias.",
+      "Feito para ser lido."
+    ]
+  },
+  {
+    "id": 18,
+    "palavra": "Travesseiro",
+    "tipo": "Objeto",
+    "dicas": [
+      "No Egito antigo, eram feitos de pedra ou madeira para não estragar o penteado.",
+      "Pode ser feito de plumas de ganso ou espuma da NASA.",
+      "Acumula ácaros se não for limpo.",
+      "É coberto pela fronha.",
+      "Usado em guerras de brincadeira.",
+      "Fica em cima da cama.",
+      "Apoia o pescoço.",
+      "Item de roupa de cama.",
+      "Você coloca a cabeça nele.",
+      "Usado para dormir."
+    ]
+  },
+  {
+    "id": 19,
+    "palavra": "Martelo",
+    "tipo": "Objeto",
+    "dicas": [
+      "É o símbolo do deus nórdico Thor.",
+      "Faz parte do símbolo do comunismo junto com a foice.",
+      "Os juízes usam um modelo de madeira.",
+      "Possui um cabo e uma cabeça de metal.",
+      "A parte de trás pode servir para arrancar coisas.",
+      "Cuidado para não acertar o dedo.",
+      "Ferramenta muito comum.",
+      "Faz muito barulho quando usado.",
+      "Usado em construções.",
+      "Serve para bater em pregos."
+    ]
+  },
+  {
+    "id": 20,
+    "palavra": "Geladeira",
+    "tipo": "Objeto",
+    "dicas": [
+      "Antes dela, usava-se sal para conservar carnes.",
+      "Utiliza gases refrigerantes para funcionar.",
+      "Não deve ser deitada durante o transporte.",
+      "Possui borracha magnética na porta.",
+      "Tem luz interna, mas o congelador geralmente não.",
+      "Mantém a temperatura baixa.",
+      "Eletrodoméstico grande da cozinha.",
+      "Onde guardamos o leite e a água.",
+      "Conserva os alimentos.",
+      "Faz gelo."
+    ]
+  },
+  {
+    "id": 21,
+    "palavra": "Ventilador",
+    "tipo": "Objeto",
+    "dicas": [
+      "Foi inventado no final do século 19 usando motor elétrico.",
+      "No Japão, existe uma superstição de que ele pode matar se deixado ligado à noite.",
+      "Pode ser de teto, de mesa ou de chão.",
+      "Acumula muita poeira nas grades.",
+      "Possui hélices que giram rápido.",
+      "Faz barulho de vento.",
+      "Usado no verão.",
+      "Circula o ar do ambiente.",
+      "Ajuda a espantar o calor.",
+      "Joga vento em você."
+    ]
+  },
+  {
+    "id": 22,
+    "palavra": "Computador",
+    "tipo": "Objeto",
+    "dicas": [
+      "O ENIAC, um dos primeiros, ocupava uma sala inteira.",
+      "Alan Turing é considerado o pai da ciência por trás dele.",
+      "Funciona com código binário (0 e 1).",
+      "Possui placa-mãe e processador.",
+      "Pode ser atacado por vírus virtuais.",
+      "Precisa de mouse e teclado (geralmente).",
+      "Pode ser portátil (laptop) ou de mesa (desktop).",
+      "Usado para trabalhar e jogar.",
+      "Máquina eletrônica inteligente.",
+      "Acessa a internet."
+    ]
+  },
+  {
+    "id": 23,
+    "palavra": "Sabonete",
+    "tipo": "Objeto",
+    "dicas": [
+      "As primeiras versões eram feitas de gordura animal e cinzas.",
+      "Tyler Durden, no filme 'Clube da Luta', fabricava e vendia.",
+      "Se cair no chão molhado, escorrega.",
+      "Pode ser líquido ou em barra.",
+      "Arde se cair no olho.",
+      "Faz espuma.",
+      "Tem cheiro agradável.",
+      "Item de higiene pessoal.",
+      "Usado no banho.",
+      "Serve para lavar o corpo."
+    ]
+  },
+  {
+    "id": 24,
+    "palavra": "Faca",
+    "tipo": "Objeto",
+    "dicas": [
+      "É a ferramenta mais antiga criada pelo homem (pedra lascada).",
+      "Pode ser de serra, de chef ou de manteiga.",
+      "É uma arma branca.",
+      "Precisa ser amolada periodicamente.",
+      "Tem cabo e lâmina.",
+      "Cuidado, corta o dedo.",
+      "Parceira do garfo.",
+      "Utensílio de cozinha.",
+      "Usada no churrasco.",
+      "Serve para cortar alimentos."
+    ]
+  },
+  {
+    "id": 25,
+    "palavra": "Anel",
+    "tipo": "Objeto",
+    "dicas": [
+      "O Papa tem um chamado 'Anel do Pescador'.",
+      "É o objeto central da saga de J.R.R. Tolkien.",
+      "Saturno tem vários gigantes ao seu redor.",
+      "Pode ter pedras preciosas cravadas.",
+      "Simboliza compromisso ou formatura.",
+      "Formato circular.",
+      "Feito de ouro ou prata.",
+      "É uma joia.",
+      "Colocado no dedo.",
+      "A aliança é um tipo deste objeto."
+    ]
+  },
+  {
+    "id": 26,
+    "palavra": "Bola",
+    "tipo": "Objeto",
+    "dicas": [
+      "A da Copa de 2002 chamava-se Fevernova.",
+      "Pode ser oval no futebol americano.",
+      "Wilson era o nome de uma no filme 'Náufrago'.",
+      "Pode ser de couro, borracha ou plástico.",
+      "Rola com facilidade.",
+      "Usada em quase todos os esportes coletivos.",
+      "Formato esférico.",
+      "As crianças adoram brincar com ela.",
+      "Você chuta ou arremessa.",
+      "Objeto principal do futebol."
+    ]
+  },
+  {
+    "id": 27,
+    "palavra": "Carro",
+    "tipo": "Objeto",
+    "dicas": [
+      "O modelo 'T' da Ford popularizou seu uso.",
+      "Existem modelos elétricos como os da Tesla.",
+      "Precisa de seguro e IPVA no Brasil.",
+      "Tem porta-malas e estepe.",
+      "Possui volante e pedais.",
+      "Para no posto de gasolina.",
+      "Tem placa e faróis.",
+      "Meio de transporte particular.",
+      "Veículo com quatro rodas.",
+      "Você precisa de habilitação para dirigir."
+    ]
+  },
+  {
+    "id": 28,
+    "palavra": "Escada",
+    "tipo": "Objeto",
+    "dicas": [
+      "Dizem que passar por baixo dela dá azar.",
+      "A do Penrose é uma ilusão de ótica infinita.",
+      "Pode ser rolante em shoppings.",
+      "Bombeiros usam uma versão muito grande.",
+      "Pode ser de madeira ou alumínio.",
+      "Composta por degraus.",
+      "Cansa subir nela.",
+      "Serve para alcançar lugares altos.",
+      "Substitui o elevador.",
+      "Usada para subir ou descer andares."
+    ]
+  },
+  {
+    "id": 29,
+    "palavra": "Tapete",
+    "tipo": "Objeto",
+    "dicas": [
+      "O modelo 'Mágico' aparece nas histórias de Aladdin.",
+      "Os persas são os mais famosos e caros do mundo.",
+      "Existe uma versão vermelha para celebridades.",
+      "Acumula muita poeira e ácaros.",
+      "Fica no chão da sala.",
+      "Pode ser 'de boas-vindas' na porta de entrada.",
+      "Serve para limpar os pés.",
+      "Decora o ambiente.",
+      "Feito de tecido grosso.",
+      "Cobre o piso."
+    ]
+  },
+  {
+    "id": 30,
+    "palavra": "Televisão",
+    "tipo": "Objeto",
+    "dicas": [
+      "A primeira transmissão no Brasil foi feita por Assis Chateaubriand.",
+      "Antigamente era de tubo e muito pesada.",
+      "Hoje em dia é Smart e plana.",
+      "Possui resolução 4K ou 8K.",
+      "Fica na sala ou no quarto.",
+      "Precisa de um controle remoto.",
+      "Transmite novelas e jornais.",
+      "Você assiste filmes nela.",
+      "Aparelho eletrônico com tela.",
+      "Mostra imagens e sons."
+    ]
+  }
+]
+[
+  {
+    "id": 31,
+    "palavra": "Albert Einstein",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Nasceu na Alemanha em 1879.",
+      "Teve dificuldades na fala durante a infância.",
+      "Trabalhou em um escritório de patentes antes da fama.",
+      "Ganhou o Prêmio Nobel de Física em 1921.",
+      "Sua equação mais famosa relaciona energia e massa.",
+      "Cabelo bagunçado é sua marca visual.",
+      "Tem uma foto famosa mostrando a língua.",
+      "Desenvolveu a Teoria da Relatividade.",
+      "Um dos maiores gênios da humanidade.",
+      "Físico famoso pela fórmula E=mc²."
+    ]
+  },
+  {
+    "id": 32,
+    "palavra": "Santos Dumont",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Nasceu em Minas Gerais.",
+      "Filho de um rico fazendeiro de café.",
+      "Viveu grande parte da vida em Paris.",
+      "Cometeu suicídio, deprimido com o uso bélico de suas invenções.",
+      "Popularizou o uso do relógio de pulso.",
+      "Contornou a Torre Eiffel com um dirigível.",
+      "Inventou o 14-bis.",
+      "Considerado o Pai da Aviação.",
+      "Patrono da Aeronáutica Brasileira.",
+      "Brasileiro que fez o avião voar."
+    ]
+  },
+  {
+    "id": 33,
+    "palavra": "Pelé",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Seu nome de batismo era Edson.",
+      "Nasceu na cidade de Três Corações.",
+      "Foi Ministro do Esporte no Brasil.",
+      "Parou uma guerra na Nigéria para jogar.",
+      "Fez mais de 1000 gols na carreira.",
+      "Brilhou no Santos Futebol Clube.",
+      "Venceu 3 Copas do Mundo.",
+      "Usava a camisa 10.",
+      "Considerado o Rei do Futebol.",
+      "Maior jogador brasileiro de todos os tempos."
+    ]
+  },
+  {
+    "id": 34,
+    "palavra": "Ayrton Senna",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Tinha o apelido de 'Beco' na infância.",
+      "Era mestre em pilotar na chuva.",
+      "Teve uma rivalidade histórica com Alain Prost.",
+      "Namorou a apresentadora Xuxa.",
+      "Foi tricampeão mundial.",
+      "Pilotou pela Lotus, McLaren e Williams.",
+      "Morreu em um acidente na Itália em 1994.",
+      "Ídolo nacional do automobilismo.",
+      "Usava um capacete amarelo.",
+      "Piloto brasileiro de Fórmula 1."
+    ]
+  },
+  {
+    "id": 35,
+    "palavra": "Leonardo da Vinci",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Era vegetariano e ambidestro.",
+      "Escrevia seus diários de trás para frente (escrita espelhada).",
+      "Projetou protótipos de helicópteros e tanques de guerra no século 15.",
+      "Grande gênio do Renascimento.",
+      "Desenhou o Homem Vitruviano.",
+      "Pintou a Santa Ceia.",
+      "Autor da pintura mais famosa do mundo.",
+      "Italiano multitalentoso.",
+      "Pintor da Mona Lisa.",
+      "Artista e inventor famoso."
+    ]
+  },
+  {
+    "id": 36,
+    "palavra": "Silvio Santos",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Começou a vida como camelô no Rio de Janeiro.",
+      "Seu nome verdadeiro é Senor Abravanel.",
+      "Foi dono de um banco (PanAmericano).",
+      "Tentou ser candidato à presidência do Brasil.",
+      "Dono de uma rede de televisão.",
+      "Jogava aviõezinhos de dinheiro para a plateia.",
+      "Apresentava o programa aos domingos.",
+      "Dono do SBT.",
+      "Pai de seis filhas.",
+      "Um dos maiores apresentadores de TV do Brasil."
+    ]
+  },
+  {
+    "id": 37,
+    "palavra": "Michael Jackson",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Começou a carreira ainda criança com seus irmãos.",
+      "Teve um rancho chamado 'Neverland'.",
+      "Sua pele mudou de cor devido ao vitiligo.",
+      "Seu álbum é o mais vendido da história.",
+      "Inventou o passo de dança 'Moonwalk'.",
+      "Usava uma luva brilhante em apenas uma mão.",
+      "Morreu em 2009.",
+      "Cantor de 'Thriller' e 'Billie Jean'.",
+      "Conhecido como o Rei do Pop.",
+      "Cantor e dançarino americano famoso."
+    ]
+  },
+  {
+    "id": 38,
+    "palavra": "Tiradentes",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Seu nome era Joaquim José da Silva Xavier.",
+      "Era alferes (posto militar).",
+      "Exerceu a profissão de dentista amador.",
+      "Participou da Inconfidência Mineira.",
+      "Foi o único do grupo condenado à morte.",
+      "Foi enforcado e esquartejado.",
+      "Tem um feriado nacional em 21 de abril.",
+      "Herói nacional brasileiro.",
+      "Lutou pela independência de Minas Gerais.",
+      "Tem barba e cabelo compridos nas representações."
+    ]
+  },
+  {
+    "id": 39,
+    "palavra": "Adolf Hitler",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Nasceu na Áustria, não na Alemanha.",
+      "Tentou ser pintor, mas foi rejeitado pela academia de artes.",
+      "Escreveu o livro 'Minha Luta' na prisão.",
+      "Foi ditador entre 1933 e 1945.",
+      "Líder do Partido Nazista.",
+      "Responsável pelo Holocausto.",
+      "Iniciou a Segunda Guerra Mundial.",
+      "Cometeu suicídio em um bunker.",
+      "Usava um bigode curto característico.",
+      "Grande vilão da história do século 20."
+    ]
+  },
+  {
+    "id": 40,
+    "palavra": "Cristóvão Colombo",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Acredita-se que era genovês (italiano).",
+      "Buscou patrocínio em várias cortes antes da Espanha aceitar.",
+      "Morreu acreditando que tinha chegado às Índias.",
+      "Comandou as caravelas Santa Maria, Pinta e Niña.",
+      "Atravessou o Oceano Atlântico.",
+      "Chegou ao novo continente em 1492.",
+      "Navegador famoso.",
+      "Descobridor da América.",
+      "Tem um dia com seu nome nos EUA (Columbus Day).",
+      "Explorador marítimo."
+    ]
+  },
+  {
+    "id": 41,
+    "palavra": "Marilyn Monroe",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Seu nome verdadeiro era Norma Jeane.",
+      "Passou parte da infância em orfanatos.",
+      "Cantou 'Parabéns pra Você' para o presidente Kennedy.",
+      "Tinha uma pinta no rosto.",
+      "Símbolo sexual dos anos 50.",
+      "Tem uma cena famosa segurando o vestido branco no metrô.",
+      "Morreu jovem, aos 36 anos.",
+      "Atriz loira de Hollywood.",
+      "Ícone de beleza e cinema.",
+      "Estrela de 'Quanto Mais Quente Melhor'."
+    ]
+  },
+  {
+    "id": 42,
+    "palavra": "Napoleão Bonaparte",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Nasceu na ilha de Córsega.",
+      "Ficou famoso por ser baixo, mas tinha estatura média para a época.",
+      "Foi exilado na ilha de Santa Helena.",
+      "Coroou a si mesmo como Imperador.",
+      "Invadiu diversos países da Europa.",
+      "Perdeu a Batalha de Waterloo.",
+      "Líder militar e político francês.",
+      "Sua família fugiu para o Brasil por causa dele.",
+      "Frequentemente retratado com a mão dentro do casaco.",
+      "Grande conquistador francês."
+    ]
+  },
+  {
+    "id": 43,
+    "palavra": "Rainha Elizabeth II",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Serviu como mecânica na Segunda Guerra Mundial.",
+      "Teve o reinado mais longo da história britânica.",
+      "Viu 15 primeiros-ministros passarem durante seu governo.",
+      "Adorava cães da raça Corgi.",
+      "Mãe do Rei Charles III.",
+      "Morreu em 2022.",
+      "Vivia no Palácio de Buckingham.",
+      "Monarca do Reino Unido.",
+      "Usava roupas coloridas e chapéus.",
+      "Foi Rainha da Inglaterra."
+    ]
+  },
+  {
+    "id": 44,
+    "palavra": "Machado de Assis",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Neto de escravos, nasceu pobre no Morro do Livramento.",
+      "Era epilético e gago.",
+      "Fundou a Academia Brasileira de Letras.",
+      "Escreveu contos, crônicas, poesias e romances.",
+      "Apelidado de 'O Bruxo do Cosme Velho'.",
+      "Criou o personagem Capitu.",
+      "Escreveu 'Memórias Póstumas de Brás Cubas'.",
+      "Maior escritor da literatura brasileira.",
+      "Autor de 'Dom Casmurro'.",
+      "Escritor realista brasileiro."
+    ]
+  },
+  {
+    "id": 45,
+    "palavra": "William Shakespeare",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Nasceu em Stratford-upon-Avon.",
+      "Muitas expressões do inglês moderno foram criadas por ele.",
+      "Há teorias da conspiração sobre a autoria de suas obras.",
+      "Escreveu sonetos e peças de teatro.",
+      "Criou a frase 'Ser ou não ser, eis a questão'.",
+      "Escreveu tragédias e comédias.",
+      "Autor de 'Hamlet'.",
+      "Dramaturgo inglês mais famoso.",
+      "Criou o casal Romeu e Julieta.",
+      "Escritor da era elisabetana."
+    ]
+  },
+  {
+    "id": 46,
+    "palavra": "Elvis Presley",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Tinha um irmão gêmeo que morreu no parto.",
+      "Serviu no exército americano quando já era famoso.",
+      "Sua casa se chamava Graceland.",
+      "Morreu no banheiro de sua mansão.",
+      "Usava macacões brancos com pedrarias.",
+      "Famoso pelo topete e costeletas.",
+      "Revolucionou a música nos anos 50.",
+      "Conhecido como o Rei do Rock.",
+      "Cantor de 'Can't Help Falling in Love'.",
+      "Músico americano lendário."
+    ]
+  },
+  {
+    "id": 47,
+    "palavra": "Gisele Bündchen",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Nasceu no Rio Grande do Sul.",
+      "Tem uma irmã gêmea chamada Patrícia.",
+      "Queria ser jogadora de vôlei antes da fama.",
+      "Foi a modelo mais bem paga do mundo por anos.",
+      "Namorou Leonardo DiCaprio.",
+      "Criou o andar 'cavalgar' nas passarelas.",
+      "Desfilou na abertura das Olimpíadas do Rio.",
+      "Supermodelo brasileira.",
+      "Foi uma 'Angel' da Victoria's Secret.",
+      "Modelo famosa internacionalmente."
+    ]
+  },
+  {
+    "id": 48,
+    "palavra": "Isaac Newton",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Nasceu prematuro e pequeno.",
+      "Estudou na Universidade de Cambridge.",
+      "Foi presidente da Royal Society.",
+      "Diz a lenda que uma maçã caiu em sua cabeça.",
+      "Decompôs a luz branca em um prisma.",
+      "Desenvolveu o cálculo matemático.",
+      "Formulou três leis famosas da mecânica.",
+      "Descobriu a Lei da Gravidade.",
+      "Um dos maiores físicos da história.",
+      "Cientista inglês."
+    ]
+  },
+  {
+    "id": 49,
+    "palavra": "Mahatma Gandhi",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Formou-se em Direito na Inglaterra.",
+      "Viveu e lutou pelos direitos civis na África do Sul.",
+      "Tinha o título de 'Mahatma' (Grande Alma).",
+      "Defendia a resistência pacífica (não-violência).",
+      "Fez greves de fome como protesto.",
+      "Liderou a Marcha do Sal.",
+      "Foi assassinado a tiros.",
+      "Líder da independência da Índia.",
+      "Usava óculos redondos e roupas simples.",
+      "Símbolo mundial da paz."
+    ]
+  },
+  {
+    "id": 50,
+    "palavra": "Vincent van Gogh",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Vendeu apenas um quadro enquanto era vivo.",
+      "Teve crises mentais severas.",
+      "Cortou um pedaço da própria orelha.",
+      "Suas obras valem milhões hoje em dia.",
+      "Usava pinceladas fortes e cores vivas.",
+      "Pintou muitos autorretratos.",
+      "Holandês pós-impressionista.",
+      "Pintou 'A Noite Estrelada'.",
+      "Famoso por pintar girassóis.",
+      "Artista plástico louco e genial."
+    ]
+  },
+  {
+    "id": 51,
+    "palavra": "Cleópatra",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Não era egípcia de sangue, mas de origem grega.",
+      "Falava vários idiomas.",
+      "Teve um romance com Júlio César.",
+      "Teve um romance com Marco Antônio.",
+      "Diz a lenda que se matou deixando uma cobra picá-la.",
+      "Tomava banho de leite.",
+      "Última governante ativa do Reino Ptolomaico.",
+      "Rainha do Egito Antigo.",
+      "Famosa por sua beleza e poder.",
+      "Faraó feminina."
+    ]
+  },
+  {
+    "id": 52,
+    "palavra": "Oscar Niemeyer",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Tinha medo de avião.",
+      "Era comunista convicto.",
+      "Viveu mais de 100 anos.",
+      "Ganhou o Prêmio Pritzker (o Nobel da arquitetura).",
+      "Trabalhou com Le Corbusier.",
+      "Odiava linhas retas.",
+      "Amava o concreto armado e as curvas.",
+      "Projetou os principais prédios de Brasília.",
+      "Arquiteto brasileiro mais famoso.",
+      "Criou o Museu de Niterói e o Copan."
+    ]
+  },
+  {
+    "id": 53,
+    "palavra": "Xuxa",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Nasceu no Rio Grande do Sul.",
+      "Foi modelo antes de ir para a TV.",
+      "Teve um programa nos EUA e na Argentina.",
+      "Mãe da Sasha.",
+      "Tinha assistentes chamadas Paquitas.",
+      "Chegava em uma nave espacial no programa.",
+      "Cantou 'Ilariê'.",
+      "Apresentadora infantil.",
+      "Conhecida como a Rainha dos Baixinhos.",
+      "Maria da Graça Meneghel."
+    ]
+  },
+  {
+    "id": 54,
+    "palavra": "Charles Chaplin",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Teve uma infância muito pobre em Londres.",
+      "Era perfeccionista, repetia cenas centenas de vezes.",
+      "Recebeu um Oscar honorário e foi aplaudido por 12 minutos.",
+      "Fez sucesso na era do cinema mudo.",
+      "Fez uma sátira de Hitler no filme 'O Grande Ditador'.",
+      "Seu personagem mais famoso é 'O Vagabundo'.",
+      "Andava de forma engraçada.",
+      "Usava chapéu coco e bengala.",
+      "Tinha um bigodinho curto.",
+      "Ator e comediante clássico."
+    ]
+  },
+  {
+    "id": 55,
+    "palavra": "Princesa Diana",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Trabalhou como professora de jardim de infância.",
+      "Sua cerimônia de casamento foi vista por milhões.",
+      "Sofreu de bulimia e depressão.",
+      "Separou-se do Príncipe Charles.",
+      "Conhecida por seu trabalho de caridade.",
+      "Mãe dos príncipes William e Harry.",
+      "Morreu tragicamente em um túnel em Paris.",
+      "Chamada de Lady Di.",
+      "Era a 'Princesa do Povo'.",
+      "Membro da família real britânica."
+    ]
+  },
+  {
+    "id": 56,
+    "palavra": "Monteiro Lobato",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Foi promotor público antes de escrever.",
+      "Lutou para que o Brasil explorasse petróleo ('O petróleo é nosso').",
+      "Foi preso durante o Estado Novo.",
+      "Escreveu 'Urupês' e criou o Jeca Tatu.",
+      "Revolucionou a literatura infantil no Brasil.",
+      "Criou a boneca Emília.",
+      "Criou o Sítio do Picapau Amarelo.",
+      "Escritor brasileiro nascido em Taubaté.",
+      "Autor de histórias infantis.",
+      "Criador de Narizinho e Pedrinho."
+    ]
+  },
+  {
+    "id": 57,
+    "palavra": "Bill Gates",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Abandonou a universidade de Harvard.",
+      "Foi preso por dirigir sem carteira na juventude.",
+      "Tem uma fundação filantrópica gigantesca com a ex-esposa.",
+      "Já foi o homem mais rico do mundo várias vezes.",
+      "Rival de Steve Jobs.",
+      "Programador de computador.",
+      "Fundou a Microsoft.",
+      "Criador do Windows.",
+      "Bilionário da tecnologia.",
+      "Americano famoso do mundo da informática."
+    ]
+  },
+  {
+    "id": 58,
+    "palavra": "Pedro Álvares Cabral",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Nobre português.",
+      "Comandou uma frota de 13 navios.",
+      "Perdeu navios no Cabo da Boa Esperança.",
+      "Sua viagem tinha como destino as Índias.",
+      "Avistou o Monte Pascoal.",
+      "Celebrou a primeira missa no Brasil.",
+      "Chegou aqui em 22 de abril de 1500.",
+      "Navegador português.",
+      "Descobridor do Brasil.",
+      "Chegou na Bahia com caravelas."
+    ]
+  },
+  {
+    "id": 59,
+    "palavra": "Dom Pedro II",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Tornou-se imperador com apenas 5 anos (Golpe da Maioridade aos 14).",
+      "Era apaixonado por fotografia e ciência.",
+      "Falava muitas línguas, incluindo Tupi.",
+      "Foi deposto em 1889.",
+      "Morreu exilado em Paris.",
+      "Governou o Brasil por quase 50 anos.",
+      "Usava uma longa barba branca na velhice.",
+      "Segundo e último imperador do Brasil.",
+      "Filho de Dom Pedro I.",
+      "Monarca brasileiro."
+    ]
+  },
+  {
+    "id": 60,
+    "palavra": "Nelson Mandela",
+    "tipo": "Pessoa",
+    "dicas": [
+      "Era advogado e boxeador amador na juventude.",
+      "Ficou 27 anos preso.",
+      "Seu número de prisioneiro era 46664.",
+      "Lutou contra o Apartheid.",
+      "Ganhou o Prêmio Nobel da Paz.",
+      "Tornou-se o primeiro presidente negro de seu país.",
+      "Conhecido como Madiba.",
+      "Líder da África do Sul.",
+      "Símbolo da luta contra o racismo.",
+      "Político e ativista africano."
+    ]
+  }
+]
+[
+  {
+    "id": 61,
+    "palavra": "Brasil",
+    "tipo": "Lugar",
+    "dicas": [
+      "É o quinto maior país do mundo em extensão territorial.",
+      "Único país da América onde se fala português.",
+      "Abriga a maior parte da Floresta Amazônica.",
+      "Venceu a Copa do Mundo de futebol 5 vezes.",
+      "Sua capital foi planejada e construída no formato de um avião.",
+      "Terra do Samba e do Carnaval.",
+      "Possui as cores verde e amarelo na bandeira.",
+      "Fica na América do Sul.",
+      "Onde fica o Rio de Janeiro e São Paulo.",
+      "Nosso país."
+    ]
+  },
+  {
+    "id": 62,
+    "palavra": "Torre Eiffel",
+    "tipo": "Lugar",
+    "dicas": [
+      "Foi construída para a Exposição Universal de 1889.",
+      "No início, os artistas locais a odiavam e a chamavam de 'esqueleto inútil'.",
+      "Sua altura varia cerca de 15 cm dependendo da temperatura.",
+      "Gustave é o nome do seu criador.",
+      "Apelidada de Dama de Ferro.",
+      "É o símbolo máximo de Paris.",
+      "Visitantes sobem de elevador ou escada.",
+      "Fica na França.",
+      "Antena de rádio gigante.",
+      "Monumento famoso em formato de 'A'."
+    ]
+  },
+  {
+    "id": 63,
+    "palavra": "Muralha da China",
+    "tipo": "Lugar",
+    "dicas": [
+      "Dizem que é visível do espaço (embora seja difícil a olho nu).",
+      "Sua construção levou séculos e várias dinastias.",
+      "Usaram farinha de arroz na argamassa para ficar mais resistente.",
+      "Servia para proteger contra invasões de nômades (como os mongóis).",
+      "Tem milhares de quilômetros de extensão.",
+      "Muitas pessoas morreram construindo-a.",
+      "É uma das 7 Maravilhas do Mundo Moderno.",
+      "Fica na Ásia.",
+      "Estrutura defensiva gigante.",
+      "Parede de pedra muito longa."
+    ]
+  },
+  {
+    "id": 64,
+    "palavra": "Egito",
+    "tipo": "Lugar",
+    "dicas": [
+      "Lar de uma das civilizações mais antigas da história.",
+      "O rio Nilo atravessa seu território.",
+      "Famoso por seus governantes chamados Faraós.",
+      "Local onde se encontram a Esfinge e as Grandes Pirâmides.",
+      "Fica no nordeste da África.",
+      "Sua capital é Cairo.",
+      "Terra das múmias.",
+      "Tem muito deserto.",
+      "País de Cleópatra.",
+      "Onde os judeus foram escravizados na Bíblia."
+    ]
+  },
+  {
+    "id": 65,
+    "palavra": "Roma",
+    "tipo": "Lugar",
+    "dicas": [
+      "Diz a lenda que foi fundada pelos gêmeos Rômulo e Remo.",
+      "Conhecida como a 'Cidade Eterna'.",
+      "Todos os caminhos levam a ela.",
+      "Abriga um país inteiro dentro de si (o Vaticano).",
+      "Famosa pelo Coliseu.",
+      "Capital da Itália.",
+      "Antigo centro de um grande Império.",
+      "Lugar de muitas massas e pizzas.",
+      "O Papa vive perto daqui.",
+      "Cidade europeia histórica."
+    ]
+  },
+  {
+    "id": 66,
+    "palavra": "Amazônia",
+    "tipo": "Lugar",
+    "dicas": [
+      "Estende-se por nove nações diferentes.",
+      "Frequentemente chamada de 'Pulmão do Mundo'.",
+      "Abriga o maior rio em volume de água do planeta.",
+      "Tem a maior biodiversidade da Terra.",
+      "Sofre com queimadas e desmatamento.",
+      "Lar da onça-pintada e do boto-cor-de-rosa.",
+      "Grande parte fica no Brasil.",
+      "Região de clima quente e úmido.",
+      "Floresta tropical gigante.",
+      "Selva densa."
+    ]
+  },
+  {
+    "id": 67,
+    "palavra": "Estátua da Liberdade",
+    "tipo": "Lugar",
+    "dicas": [
+      "Foi um presente da França para os Estados Unidos.",
+      "É feita de cobre, por isso ficou verde com o tempo (oxidação).",
+      "Existem correntes quebradas aos seus pés.",
+      "Segura uma tocha na mão direita.",
+      "Símbolo de boas-vindas aos imigrantes.",
+      "Fica em uma ilha em Nova York.",
+      "Segura um livro/tábua na mão esquerda.",
+      "Usa uma coroa com 7 pontas.",
+      "Monumento feminino gigante.",
+      "Ponto turístico americano."
+    ]
+  },
+  {
+    "id": 68,
+    "palavra": "Japão",
+    "tipo": "Lugar",
+    "dicas": [
+      "Conhecido como a 'Terra do Sol Nascente'.",
+      "É um arquipélago com mais de 6.000 ilhas.",
+      "Sofre com frequentes terremotos.",
+      "País dos Samurais e Geishas.",
+      "Criador dos animes e mangás.",
+      "Sua capital é Tóquio.",
+      "Come-se muito peixe cru (sushi).",
+      "Fica na Ásia.",
+      "Foi atingido por bombas atômicas.",
+      "País tecnológico e tradicional."
+    ]
+  },
+  {
+    "id": 69,
+    "palavra": "Veneza",
+    "tipo": "Lugar",
+    "dicas": [
+      "Foi construída sobre um arquipélago de 118 ilhas.",
+      "Não possui carros nas ruas principais.",
+      "O transporte é feito por barcos chamados gôndolas.",
+      "Famosa por seu carnaval de máscaras.",
+      "Sofre com inundações frequentes ('Acqua Alta').",
+      "Tem a Praça de São Marcos.",
+      "Fica na Itália.",
+      "Cidade romântica.",
+      "Suas ruas são canais de água.",
+      "Lugar onde se usa barco como táxi."
+    ]
+  },
+  {
+    "id": 70,
+    "palavra": "Antártida",
+    "tipo": "Lugar",
+    "dicas": [
+      "Não pertence a nenhum país (Tratado de 1959).",
+      "Não tem população humana permanente.",
+      "Contém cerca de 70% da água doce do planeta.",
+      "É o continente mais frio, seco e ventoso.",
+      "Lugar onde vivem os pinguins (no hemisfério sul).",
+      "Cientistas vão para lá estudar o clima.",
+      "Coberto de gelo.",
+      "Fica no Polo Sul.",
+      "Deserto polar.",
+      "Continente gelado."
+    ]
+  },
+  {
+    "id": 71,
+    "palavra": "Coliseu",
+    "tipo": "Lugar",
+    "dicas": [
+      "Originalmente chamado de Anfiteatro Flaviano.",
+      "Palco de lutas de gladiadores.",
+      "Podia ser inundado para simular batalhas navais.",
+      "Comporta milhares de espectadores.",
+      "Foi danificado por terremotos e ladrões de pedras.",
+      "Símbolo do Império Romano.",
+      "Fica em Roma.",
+      "Uma das 7 Maravilhas do Mundo Moderno.",
+      "Ruína histórica famosa.",
+      "Arena de combate antiga."
+    ]
+  },
+  {
+    "id": 72,
+    "palavra": "Rio de Janeiro",
+    "tipo": "Lugar",
+    "dicas": [
+      "Apelidada de 'Cidade Maravilhosa'.",
+      "Foi capital do Brasil antes de Brasília.",
+      "Sediou as Olimpíadas de 2016.",
+      "Tem o Pão de Açúcar e o Cristo Redentor.",
+      "Famosa pelas praias de Copacabana e Ipanema.",
+      "Tem o estádio do Maracanã.",
+      "Estado e cidade têm o mesmo nome.",
+      "Tem favelas e morros.",
+      "Destino turístico brasileiro.",
+      "Onde acontece o maior Réveillon."
+    ]
+  },
+  {
+    "id": 73,
+    "palavra": "Disney World",
+    "tipo": "Lugar",
+    "dicas": [
+      "O complexo tem o tamanho da cidade de São Francisco.",
+      "Fica na Flórida, perto de Orlando.",
+      "Tem o castelo da Cinderela.",
+      "Lugar onde 'os sonhos se tornam realidade'.",
+      "Tem parques como Epcot e Magic Kingdom.",
+      "Casa do Mickey Mouse.",
+      "Destino de férias de muitas famílias.",
+      "Tem muitas montanhas-russas.",
+      "Parque de diversões famoso.",
+      "Lugar mágico."
+    ]
+  },
+  {
+    "id": 74,
+    "palavra": "Monte Everest",
+    "tipo": "Lugar",
+    "dicas": [
+      "Os tibetanos o chamam de 'Deusa Mãe do Mundo'.",
+      "Fica na fronteira entre Nepal e China.",
+      "Muitos alpinistas morrem tentando chegar ao topo.",
+      "Tem mais de 8.800 metros de altura.",
+      "Fica na Cordilheira do Himalaia.",
+      "Ponto mais alto da Terra.",
+      "O ar é muito rarefeito lá em cima.",
+      "Coberto de neve eterna.",
+      "Desafio máximo para escaladores.",
+      "A montanha mais alta."
+    ]
+  },
+  {
+    "id": 75,
+    "palavra": "Vaticano",
+    "tipo": "Lugar",
+    "dicas": [
+      "É o menor país do mundo.",
+      "Fica totalmente dentro da cidade de Roma.",
+      "Sua segurança é feita pela Guarda Suíça.",
+      "Tem a Basílica de São Pedro.",
+      "Onde fica a Capela Sistina (pintada por Michelangelo).",
+      "Residência oficial do Papa.",
+      "Centro da Igreja Católica.",
+      "Tem seus próprios selos e correios.",
+      "Cidade-Estado religiosa.",
+      "Lugar sagrado para católicos."
+    ]
+  },
+  {
+    "id": 76,
+    "palavra": "Deserto do Saara",
+    "tipo": "Lugar",
+    "dicas": [
+      "Seu nome significa 'Deserto' em árabe.",
+      "É quase do tamanho dos Estados Unidos.",
+      "Durante o dia é muito quente, à noite muito frio.",
+      "Atravessa vários países do norte da África.",
+      "Tem dunas de areia gigantes.",
+      "Pode-se encontrar oásis nele.",
+      "Transporte comum lá é o camelo.",
+      "Lugar muito seco.",
+      "Terceiro maior deserto (atrás dos polares).",
+      "Mar de areia."
+    ]
+  },
+  {
+    "id": 77,
+    "palavra": "Fernando de Noronha",
+    "tipo": "Lugar",
+    "dicas": [
+      "Antigamente foi um presídio e base militar.",
+      "Arquipélago pertencente ao estado de Pernambuco.",
+      "Tem a Baía do Sancho, eleita várias vezes a praia mais bonita do mundo.",
+      "Visitantes pagam uma taxa de preservação ambiental para entrar.",
+      "Ótimo lugar para ver golfinhos e tartarugas.",
+      "Destino de mergulho famoso.",
+      "Fica no Oceano Atlântico.",
+      "Paraíso brasileiro.",
+      "Ilha turística cara.",
+      "Santuário ecológico."
+    ]
+  },
+  {
+    "id": 78,
+    "palavra": "Paris",
+    "tipo": "Lugar",
+    "dicas": [
+      "Conhecida como a 'Cidade Luz'.",
+      "Cortada pelo Rio Sena.",
+      "Abriga o Museu do Louvre (onde está a Mona Lisa).",
+      "Capital da França.",
+      "Palco da Revolução Francesa.",
+      "Tem a Catedral de Notre-Dame.",
+      "Considerada a capital da moda.",
+      "Destino muito romântico para casais.",
+      "Onde fica a Torre Eiffel.",
+      "Cidade europeia famosa."
+    ]
+  },
+  {
+    "id": 79,
+    "palavra": "Machu Picchu",
+    "tipo": "Lugar",
+    "dicas": [
+      "Foi 'redescoberta' em 1911 por Hiram Bingham.",
+      "Conhecida como a 'Cidade Perdida dos Incas'.",
+      "Foi construída sem o uso de rodas ou ferro.",
+      "Fica no alto da Cordilheira dos Andes.",
+      "Localizada no Peru.",
+      "Construção de pedra impressionante.",
+      "Tem muitas lhamas pastando por lá.",
+      "Uma das 7 Maravilhas do Mundo Moderno.",
+      "Sítio arqueológico sagrado.",
+      "Ruínas no topo da montanha."
+    ]
+  },
+  {
+    "id": 80,
+    "palavra": "Austrália",
+    "tipo": "Lugar",
+    "dicas": [
+      "Muitas vezes chamada de 'o continente ilha'.",
+      "Originalmente usada como colônia penal pela Grã-Bretanha.",
+      "Lar da Grande Barreira de Corais.",
+      "Tem animais únicos como ornitorrincos e coalas.",
+      "Famosa pelo deserto vermelho (Outback).",
+      "Terra dos cangurus.",
+      "Sua maior cidade é Sydney (mas a capital é Canberra).",
+      "Fica na Oceania.",
+      "País do surf e praias.",
+      "Onde fica a Opera House."
+    ]
+  },
+  {
+    "id": 81,
+    "palavra": "Taj Mahal",
+    "tipo": "Lugar",
+    "dicas": [
+      "Construído pelo imperador Shah Jahan.",
+      "Feito totalmente de mármore branco.",
+      "Muda de cor dependendo da luz do sol.",
+      "Não é um palácio, é um mausoléu (tumba).",
+      "Monumento ao amor eterno (para a esposa favorita).",
+      "Fica na cidade de Agra, na Índia.",
+      "Tem um grande jardim e espelho d'água na frente.",
+      "Uma das 7 Maravilhas do Mundo Moderno.",
+      "Ponto turístico indiano.",
+      "Edifício com cúpula branca."
+    ]
+  },
+  {
+    "id": 82,
+    "palavra": "Cataratas do Iguaçu",
+    "tipo": "Lugar",
+    "dicas": [
+      "Eleita uma das 7 Maravilhas Naturais do Mundo.",
+      "Fica na fronteira entre Brasil e Argentina.",
+      "Composta por 275 quedas d'água.",
+      "O ponto mais famoso é a 'Garganta do Diabo'.",
+      "Produz muita neblina e arco-íris.",
+      "Fica dentro de um Parque Nacional.",
+      "Atração turística molhada.",
+      "Grande volume de água.",
+      "Conjunto de cachoeiras gigantes.",
+      "Beleza natural do Paraná."
+    ]
+  },
+  {
+    "id": 83,
+    "palavra": "Nova York",
+    "tipo": "Lugar",
+    "dicas": [
+      "Conhecida como a 'Big Apple' (Grande Maçã).",
+      "Dizem que é a 'Cidade que Nunca Dorme'.",
+      "Tem o Central Park no meio dos prédios.",
+      "Famosa pelos táxis amarelos.",
+      "Tem a Times Square cheia de telões.",
+      "Centro financeiro de Wall Street.",
+      "Palco de muitos filmes e séries.",
+      "Cidade mais populosa dos EUA.",
+      "Tem a Broadway e seus teatros.",
+      "Onde ficavam as Torres Gêmeas."
+    ]
+  },
+  {
+    "id": 84,
+    "palavra": "Lua",
+    "tipo": "Lugar",
+    "dicas": [
+      "O homem pisou lá pela primeira vez em 1969.",
+      "Responsável pelas marés nos oceanos.",
+      "Apresenta sempre a mesma face para a Terra.",
+      "Cheia de crateras.",
+      "Não tem atmosfera para respirar.",
+      "Neil Armstrong caminhou aqui.",
+      "Satélite natural da Terra.",
+      "Brilha no céu à noite.",
+      "Fica no espaço.",
+      "Muda de fase (cheia, minguante...)."
+    ]
+  },
+  {
+    "id": 85,
+    "palavra": "Triângulo das Bermudas",
+    "tipo": "Lugar",
+    "dicas": [
+      "Área no Oceano Atlântico.",
+      "Fica entre Flórida, Porto Rico e Bermudas.",
+      "Famoso pelo desaparecimento misterioso de aviões e navios.",
+      "Bússolas podem falhar nesta região.",
+      "Tema de muitas teorias da conspiração e filmes.",
+      "Lugar cercado de lendas.",
+      "Zona de perigo no mar.",
+      "Mistério marítimo.",
+      "Onde coisas somem.",
+      "Forma geométrica no nome."
+    ]
+  },
+  {
+    "id": 86,
+    "palavra": "Hollywood",
+    "tipo": "Lugar",
+    "dicas": [
+      "Distrito da cidade de Los Angeles.",
+      "Tem um letreiro gigante famoso no morro.",
+      "Centro da indústria cinematográfica americana.",
+      "Onde acontece a entrega do Oscar.",
+      "Tem a Calçada da Fama com estrelas no chão.",
+      "Lugar cheio de estúdios de cinema.",
+      "Onde vivem muitas celebridades.",
+      "Fica na Califórnia.",
+      "Sinônimo de filmes.",
+      "Terra do cinema."
+    ]
+  },
+  {
+    "id": 87,
+    "palavra": "Pão de Açúcar",
+    "tipo": "Lugar",
+    "dicas": [
+      "Complexo de morros na Urca.",
+      "Acesso é feito por um teleférico.",
+      "O teleférico é chamado de 'Bondinho'.",
+      "Cenário do filme '007 Contra o Foguete da Morte'.",
+      "Oferece vista da Baía de Guanabara.",
+      "Cartão postal do Rio de Janeiro.",
+      "Monólito de pedra.",
+      "Ponto turístico alto.",
+      "Vizinho do Morro da Urca.",
+      "Pedra famosa do Rio."
+    ]
+  },
+  {
+    "id": 88,
+    "palavra": "Cristo Redentor",
+    "tipo": "Lugar",
+    "dicas": [
+      "Fica no topo do morro do Corcovado.",
+      "É uma estátua em estilo Art Déco.",
+      "Revestido de pedra-sabão.",
+      "Está de braços abertos sobre a cidade.",
+      "Uma das 7 Maravilhas do Mundo Moderno.",
+      "Atingido por raios frequentemente.",
+      "Símbolo religioso e turístico.",
+      "Fica no Rio de Janeiro.",
+      "Estátua gigante de Jesus.",
+      "Monumento mais famoso do Brasil."
+    ]
+  },
+  {
+    "id": 89,
+    "palavra": "Grécia",
+    "tipo": "Lugar",
+    "dicas": [
+      "Berço da Democracia e da Filosofia ocidental.",
+      "Terra de Sócrates, Platão e Aristóteles.",
+      "Origem dos Jogos Olímpicos.",
+      "Tem muitas ilhas famosas como Mykonos e Santorini.",
+      "Mitologia rica com deuses como Zeus e Atena.",
+      "Capital é Atenas.",
+      "Tem ruínas antigas como o Parthenon.",
+      "Fica na Europa.",
+      "Casas brancas com teto azul são típicas nas ilhas.",
+      "País mediterrâneo."
+    ]
+  },
+  {
+    "id": 90,
+    "palavra": "Havaí",
+    "tipo": "Lugar",
+    "dicas": [
+      "Último estado a ser anexado aos EUA.",
+      "Foi um reino independente.",
+      "Local do ataque a Pearl Harbor.",
+      "Terra do Hula e do Ukulele.",
+      "Cumprimenta-se com 'Aloha'.",
+      "Formado por vulcões ativos.",
+      "Capital mundial do surf.",
+      "Arquipélago no meio do Pacífico.",
+      "Onde se usa colar de flores.",
+      "Ilha paradisíaca americana."
+    ]
+  }
+]
