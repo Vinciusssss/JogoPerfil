@@ -51,13 +51,19 @@ body {
     font-size: 1.1rem;
 }
 
-.voltar:hover, .btn-dica:hover:not(:disabled), .enviar:hover, .btn-pular:hover {
+.voltar:hover,
+.btn-dica:hover:not(:disabled),
+.enviar:hover,
+.btn-pular:hover {
     transform: scale(1.1);
     box-shadow: 0 8px 0 rgba(0, 0, 0, 0.3);
     filter: brightness(1.2);
 }
 
-.voltar:active, .btn-dica:active:not(:disabled), .enviar:active, .btn-pular:active {
+.voltar:active,
+.btn-dica:active:not(:disabled),
+.enviar:active,
+.btn-pular:active {
     transform: scale(0.95);
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.2);
 }
@@ -212,6 +218,25 @@ body {
 }
 
 @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(-10px); }
-    to { opacity: 1; transform: translateY(0); }
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+body.acerto-animacao {
+    background-color: rgb(25, 85, 25) !important;
+    transition: background-color 0.5s ease-in-out;
+}
+
+body.acerto-animacao .pontuacaoAtual,
+body.acerto-animacao .tema,
+body.acerto-animacao h2 {
+    color: white !important;
+    border-color: white !important;
 }

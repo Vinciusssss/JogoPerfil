@@ -140,18 +140,38 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
 
-function reduzirPontosDaRodada() {
-        if (pontosRodada > 10) {
-            pontosRodada -= 10;
-        }
+  function reduzirPontosDaRodada() {
+    if (pontosRodada > 10) {
+      pontosRodada -= 10;
     }
+  }
 
-    function formatarTexto(texto) {
-        return texto
-            .toString()
-            .normalize('NFD')
-            .replace(/[\u0300-\u036f]/g, "")
-            .toLowerCase()
-            .trim();
+  function formatarTexto(texto) {
+    return texto
+      .toString()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLowerCase()
+      .trim();
+  }
+
+  function veirificarResposta() {
+    const respostaUsuario = formatarTexto(inputResposta.value);
+    const respostaCerta = formatarTexto(cartaAtual.palavra);
+    if (respostaUsuario === respostaCerta) {
+      notificacaoAcerto();
     }
+  }
+
+  function notificacaoAcerto() {
+    const corpo = document.body;
+    const somAcerto = new Audio("efeitos/check_song.wav");
+    somAcerto.play().catch(e => console.log("Erro ao tocar som:", e));
+    corpo.classList.add("acerto-animação");
+    setTimeout(() => { corpo.classList.remove("acerto-animacao"); }, 2500);
+
+
+  }
+
+
 });
