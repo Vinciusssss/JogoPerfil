@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap');
 
-body{
+body {
     background-color: #001524;
     font-family: 'Comic Neue', cursive;
     margin: 0;
@@ -10,18 +10,19 @@ body{
     color: white;
 }
 
-.container{
+.container {
     display: flex;
     flex-direction: column;
 }
 
-.cabecalho{
+.cabecalho {
     display: flex;
     flex-direction: row;
     padding: 20px;
+    justify-content: space-between;
 }
 
-.voltar{
+.voltar {
     background-color: #15616d;
     color: #ffecd1;
     font-family: 'Comic Neue', cursive;
@@ -30,63 +31,65 @@ body{
     justify-content: center;
     width: 170px;
     border-radius: 10px;
-    font-size: 1.0rem;
+    font-size: 1.3rem;
     border: 2.5px solid #ffecd1;
     text-align: center;
     cursor: pointer;
-    transition: all 0.2s ease-in-out; 
-    box-shadow: 0 4px 0 rgba(0,0,0,0.2); 
-    font-size: 1.3rem;
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 4px 0 rgba(0, 0, 0, 0.2);
 }
 
-.voltar:hover ,.btn-dica:hover , .enviar:hover, .btn-pular:hover{
-    transform: scale(1.1); 
-    box-shadow: 0 8px 0 rgba(0,0,0,0.3); 
-    filter: brightness(1.2); 
-}
-
-.voltar:active , .btn-dica:active, .enviar:active, .btn-pular:active{
-    transform: scale(0.95);
-    box-shadow: 0 2px 0 rgba(0,0,0,0.2);
-}
-
-.pontuacaoAtual{
+.pontuacaoAtual {
     color: #ffecd1;
     background-color: #ff7d00;
     width: 170px;
     display: flex;
     justify-content: center;
-    margin-left: auto;
+    align-items: center;
     border-radius: 10px;
     border: 2.5px solid #ffecd1;
+    font-size: 1.1rem;
 }
 
-.info{
+.voltar:hover, .btn-dica:hover:not(:disabled), .enviar:hover, .btn-pular:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 0 rgba(0, 0, 0, 0.3);
+    filter: brightness(1.2);
+}
+
+.voltar:active, .btn-dica:active:not(:disabled), .enviar:active, .btn-pular:active {
+    transform: scale(0.95);
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.2);
+}
+
+.info {
     display: flex;
     justify-content: center;
 }
 
-.container-interface{
+.container-interface {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 800px;
 }
 
-.tema{
+.tema {
     font-size: 20px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    margin-left: 40%;
+    align-items: center;
     padding-bottom: 30px;
+    text-align: center;
+    margin: 0;
 }
 
-.imagem-interrogacao{
-}
-
-.interrogacao{
+.interrogacao {
     border-radius: 10px;
     border: 2.5px solid #ffecd1;
+    max-width: 150px;
 }
 
 .container-card-dicas {
@@ -94,16 +97,7 @@ body{
     border: 3px solid #ff7d00;
     border-radius: 20px;
     padding: 15px 20px;
-    width: 100%;
-    margin: 0 auto;
-}
-
-.card-dicas {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    width: 100%;
-    max-width: 850px;
+    width: 90%;
     margin: 0 auto;
 }
 
@@ -114,23 +108,22 @@ body{
     color: black;
 }
 
-.texto-dica {
-    display: none;
-    background-color: #15616d;
-    padding: 12px 18px;
-    border-radius: 12px;
-    color: white;
-    font-size: 15px;
-    margin-bottom: 0;
-    line-height: 0.5;
+#dicas-reveladas {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
 }
 
-.alternar-dica:checked + .texto-dica {
-    display: block;
-}
-
-.alternar-dica {
-    display: none;
+.texto-dica-revelada {
+    background-color: #ffffff;
+    color: #2c3e50;
+    padding: 10px 15px;
+    margin-bottom: 8px;
+    border-radius: 8px;
+    font-size: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 0.5s;
 }
 
 .botoes-dicas {
@@ -143,103 +136,82 @@ body{
 
 .btn-dica {
     background-color: #708d81;
-    padding: 10px 18px;
+    color: white;
+    padding: 10px;
     border-radius: 10px;
     font-weight: bold;
     cursor: pointer;
     border: 3px solid #001524;
-    order: 2;
-    width: 5px;
+    width: 45px;
+    height: 45px;
     display: flex;
     justify-content: center;
+    align-items: center;
+    font-size: 1.1rem;
 }
 
 .btn-dica.usado {
-    background-color: #c5dfd3;
-    cursor: default;
-    filter: brightness(0,1);
+    background-color: #555;
+    border-color: #333;
+    color: #ccc;
+    cursor: not-allowed;
+    transform: none !important;
+    box-shadow: none !important;
 }
 
-.botoes-dicas > * {
-    order: 2;
-}
-
-.botoes-dicas > .texto-dica {
-    order: 1;
-    flex-basis: 100%;
-    margin-bottom: 0;
-}
-
-.alternar-dica:checked + .texto-dica + .btn-dica {
-    background-color: #a6c8be;
-}
-
-.container-resposta{
+.container-resposta {
     display: flex;
-    position: relative;
     flex-direction: row;
     justify-content: center;
-    left: 22px;
     padding-top: 20px;
     gap: 10px;
-    height: 40px;
+    width: 100%;
 }
 
-.campo-resposta{
-}
-
-.campo-de-resposta{
+.campo-de-resposta {
     background-color: #ffecd1;
     border-radius: 10px;
-    height: 100%;
-    width: 500px;
+    height: 45px;
+    width: 300px;
     font-family: 'Comic Neue', cursive;
     border: 2.5px solid #ff7d00;
-    display: flex;
-    align-items: center;
+    padding: 0 15px;
+    font-size: 1rem;
+    outline: none;
 }
 
-.enviar{
-    height: 45px;
+.enviar {
+    height: 49px;
     width: 80px;
     border-radius: 10px;
     background-color: #ff7d00;
     color: #ffecd1;
     font-family: 'Comic Neue', cursive;
     border: 2.5px solid #15616d;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    cursor: pointer;
+    font-size: 1rem;
 }
 
-.pular{
+.pular {
     display: flex;
     justify-content: center;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
-.btn-pular{
+.btn-pular {
     background-color: #15616d;
     font-family: 'Comic Neue', cursive;
     color: #ffecd1;
     border-radius: 10px;
     height: 40px;
     width: 150px;
-    border: 2.5px solid #ffecd1
+    border: 2.5px solid #ffecd1;
+    cursor: pointer;
+    font-size: 1rem;
 }
 
-#dicas-reveladas {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    margin-bottom: 20px;
-}
-
-#dicas-reveladas .texto-dica {
-    display: block;
-    background-color: #15616d;
-    padding: 12px 18px;
-    border-radius: 12px;
-    color: white;
-    font-size: 15px;
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
 }
