@@ -42,6 +42,16 @@ function irPara(caminho) {
         window.location.href = caminho;
     }, 120);
 }
+document.addEventListener("DOMContentLoaded", () => {
+    const elementoRecorde = document.querySelector(".Record");
+
+    let recorde = localStorage.getItem("recorde") || 0;
+
+    if (elementoRecorde) {
+        elementoRecorde.innerText = `${recorde}`;
+    }
+});
+
 
 window.onload = () => {
     if (localStorage.getItem("efeitos") === null) {

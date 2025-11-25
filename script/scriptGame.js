@@ -164,6 +164,19 @@ document.addEventListener("DOMContentLoaded", () => {
         visorPontos.innerText = `Pontos: ${scoreTotal}`;
     }
 
+    function verificarRecorde() {
+        const recordeAtual = Number(localStorage.getItem("recorde")) || 0;
+
+        if (scoreTotal > recordeAtual) {
+            localStorage.setItem("recorde", scoreTotal);
+        }
+    }
+
+    function salvarPontuacaoFinal() {
+        localStorage.setItem("scoreUltimaPartida", scoreTotal);
+        verificarRecorde();
+    }
+
     function reduzirPontosDaRodada() {
         if (pontosRodada > 10) {
             pontosRodada -= 10;
@@ -197,11 +210,13 @@ document.addEventListener("DOMContentLoaded", () => {
     function verificarResposta() {
         const respostaUsuario = formatarTexto(inputResposta.value);
         const respostaCerta = formatarTexto(cartaAtual.palavra);
+
         if (respostaUsuario === respostaCerta) {
             notificacaoAcerto();
             setTimeout(() => {
                 scoreTotal += pontosRodada;
                 atualizarPontuacao();
+                verificarRecorde();
                 iniciarNovaRodada();
             }, 500);
         }
@@ -211,8 +226,12 @@ document.addEventListener("DOMContentLoaded", () => {
             respostaBloqueada = true;
             inputResposta.disabled = true;
             btnEnviar.disabled = true;
+
             botoesDica[0].focus();
+
             if (dicasUsadas >= 10) {
+                salvarPontuacaoFinal();
+
                 setTimeout(() => {
                     window.location.href = "indexPerdeu.html";
                 }, 700);
@@ -224,7 +243,9 @@ document.addEventListener("DOMContentLoaded", () => {
     botoesDica.forEach(btn => {
         btn.addEventListener("click", () => {
             if (btn.classList.contains("usado")) return;
+
             tentarTocar(somClique);
+
             if (audioFundo && audioFundo.paused && somEstaLigado()) {
                 audioFundo.play().catch(() => { });
             }
@@ -238,8 +259,8 @@ document.addEventListener("DOMContentLoaded", () => {
             if (textoDicaOculta) {
                 const novaDica = document.createElement("div");
                 novaDica.classList.add("texto-dica-revelada");
-                novaDica.style.background = "#092d33ff";
-                novaDica.style.color = "#ada292ff";
+                novaDica.style.background = "#15616d";
+                novaDica.style.color = "#ffecd1";
                 novaDica.style.padding = "10px";
                 novaDica.style.margin = "5px 0";
                 novaDica.style.borderRadius = "8px";
@@ -251,6 +272,7 @@ document.addEventListener("DOMContentLoaded", () => {
             btn.classList.add("usado");
             btn.disabled = true;
             btn.style.opacity = "0.5";
+
             respostaBloqueada = false;
             inputResposta.disabled = false;
             btnEnviar.disabled = false;
@@ -285,4 +307,4 @@ document.addEventListener("DOMContentLoaded", () => {
 
 window.irPara = function (url) {
     window.location.href = url;
-}
+};
