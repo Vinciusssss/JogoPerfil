@@ -13,7 +13,6 @@ const inputResposta = document.querySelector(".campo-de-resposta");
 const btnEnviar = document.querySelector(".enviar");
 const btnPular = document.querySelector(".btn-pular");
 const audioFundo = document.getElementById("musicaFundo");
-
 const somClique = new Audio("efeitos/button_song.wav");
 const somAcerto = new Audio("efeitos/check_song.wav");
 const somErro = new Audio("efeitos/fail_tick.wav");
@@ -52,8 +51,10 @@ fetch("palavras.json")
 
 
 function iniciarNovaRodada() {
+    if (bancoDePalavras.length === 0) return;
+
     const indice = Math.floor(Math.random() * bancoDePalavras.length);
-    cartaAtual = bancoDePalavras[indice];
+    cartaAtual = bancoDePalavras.splice(indice, 1)[0];
 
     pontosRodada = 100;
     dicasUsadas = 0;
@@ -221,7 +222,11 @@ if (btnPular) {
             btnPular.innerText = `Pular (${pulosRestantes}/3)`;
             iniciarNovaRodada();
         } else {
-            alert("Você não tem mais pulos!");
+            tentarTocar(somErro);
+            btnPular.classList.add("sem-pulos-animacao");
+            setTimeout(() => {
+                btnPular.classList.remove("sem-pulos-animacao");
+            }, 500);
         }
     });
 }
